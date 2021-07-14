@@ -1,0 +1,17 @@
+"Id";"Référence";"Boîtier";"Quantité";"Désignation";"Fournisseur et réf";
+1;"D8";"LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm";1;"Red LED";;;
+2;"D6";"LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm";1;"Green LED";;;
+3;"C1";"C_Radial_D12.5mm_H20.0mm_P5.00mm";1;"Bipolar/330uF/35V/lowESR";;;
+4;"SW1";"SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm";1;"TCO/60°C/1A";;;
+5;"D5";"D_DO-201AE_P12.70mm_Horizontal";1;"1.5KE15CA";;;
+6;"REF**,REF**";"MountingHole_3.2mm_M3";2;"MountingHole_3.2mm_M3";;;
+7;"U1";"TO-263-2";1;"LT1117-5.0";;;
+8;"R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"1k";;;
+9;"JP1";"SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm";1;"Jumper_NC_Small";;;
+10;"J2";"USB_A_Molex_67643_Horizontal";1;"USB_A";;;
+11;"J1";"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal";1;"Screw_Terminal_01x02";;;
+12;"D7";"D_DO-35_SOD27_P7.62mm_Horizontal";1;"BZX55C6V8";;;
+13;"D4,D3,D2,D1";"D_DO-41_SOD81_P7.62mm_Horizontal";4;"1N5819";;;
+14;"C4";"CP_Radial_D4.0mm_P2.00mm";1;"100uF/10V";;;
+15;"C3";"C_Disc_D4.3mm_W1.9mm_P5.00mm";1;"0.1uF/25V";;;
+16;"C2";"CP_Radial_D12.5mm_P5.00mm";1;"1000uF/16V";;;
